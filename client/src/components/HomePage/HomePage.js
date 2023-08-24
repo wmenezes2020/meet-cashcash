@@ -39,7 +39,7 @@ const HomePage = () => {
             </div>
           </div>
           <div className="help-text">
-            <a href="">Learn more</a> about Google Meet
+            <a href="">Learn more</a> about Now Meet
           </div>
         </div>
         <div className="right-side">
